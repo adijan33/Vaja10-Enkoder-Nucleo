@@ -9,6 +9,7 @@ Slika vezja
 
 <img width="503" height="669" alt="image" src="https://github.com/user-attachments/assets/273de014-b0e2-42d5-8296-e3bf270d5117" />
 
+
 Odgovori na vprašanja:
 
 2.f)
@@ -16,3 +17,7 @@ Odgovori na vprašanja:
 TIM2_CH1 - PA0
 
 TIM2_CH2 - PA1
+
+5.f)
+
+Za 2, včasih pa za 1.
