@@ -21,3 +21,8 @@ TIM2_CH2 - PA1
 5.f)
 
 Za 2, včasih pa za 1.
+
+
+Komentar:
+
+Enkoder deluje tako kot mora, le da sva morala vrednosti brati namesto v STM IDE okolju v STM studiu.
